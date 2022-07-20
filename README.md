@@ -8,5 +8,5 @@ This repository is dedicated to the completion of Task-1 from The Sparks Foundat
 ### Data Science & Business Analytics
 |Task|Description|
 |---|---|
-|[Task 1](https://github.com/Alokik2000/GRIP-Internship/tree/main/Task-1)|Prediction using Supervised ML (Level - Beginner)|
+|[Task 1](https://github.com/Alokik2000/GRIP-Internship-Task-1/tree/main/Task1-Prediction%20using%20Supervised%20ML)|Prediction using Supervised ML (Level - Beginner)|
 
